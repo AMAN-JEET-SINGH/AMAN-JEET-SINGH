@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AMAN-JEET-SINGH/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AMAN-JEET-SINGH/AMAN-JEET-SINGH/output/snake.svg" alt="Snake animation" />
 
 ###
